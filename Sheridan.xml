@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ctatt>
+  <tmst>20140323 23:47:43</tmst>
+  <errCd>0</errCd>
+  <errNm />
+  <eta>
+      <staId>40080</staId>
+      <stpId>30017</stpId>
+      <staNm>Sheridan</staNm>
+      <stpDe>Service toward 95th/Dan Ryan</stpDe>
+      <rn>935</rn>
+      <rt>Red</rt>
+      <destSt>30089</destSt>
+      <destNm>95th/Dan Ryan</destNm>
+      <trDr>5</trDr>
+      <prdt>20140323 23:47:25</prdt>
+      <arrT>20140323 23:48:25</arrT>
+      <isApp>1</isApp>
+      <isSch>0</isSch>
+      <isDly>0</isDly>
+      <isFlt>0</isFlt>
+      <flags />
+      <lat>41.9571</lat>
+      <lon>-87.65684</lon>
+      <heading>178</heading>
+    </eta>
+  </ctatt>
